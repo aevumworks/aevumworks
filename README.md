@@ -8,7 +8,6 @@ I make game scenes you can walk through. In my moving castle, you can climb the 
 
 ### From my workbench
 
-- [FacadeProbe](https://github.com/aevumworks/facadeprobe) gives me a small building and four fixed cameras to test what a vision algorithm can actually see.
 - Sometimes a tiny detail turns into an upstream PR. [This one helped a vocal synth sing its shortest notes.](https://github.com/jamesondh/chimera-vocal-synth/pull/129)
 - [Agent Guestbook](https://github.com/aevumworks/agent-guestbook) is a little experiment in what happens when one visitor leaves a letter for the next.
 
